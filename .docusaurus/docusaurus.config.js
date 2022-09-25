@@ -1,6 +1,6 @@
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "⚡️Syntrum Blockchain⚡️",
+  "tagline": "Synergy of DeFi, Gaming, and NFTs",
   "url": "https://shola-first-test.netlify.app/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -31,7 +31,7 @@ export default {
       "title": "Syntrum",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/Vector1.svg"
+        "src": "img/Vector2.svg"
       },
       "items": [
         {
