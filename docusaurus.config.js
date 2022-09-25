@@ -5,8 +5,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "My Site",
-    tagline: "Dinosaurs are cool",
+    title: "⚡️Syntrum Blockchain⚡️",
+    tagline: "Synergy of DeFi, Gaming, and NFTs",
     url: "https://shola-first-test.netlify.app/",
     baseUrl: "/",
     onBrokenLinks: "throw",
