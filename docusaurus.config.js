@@ -46,7 +46,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           title: "Syntrum",
           logo: {
             alt: "My Site Logo",
-            src: "img/Vector1.svg",
+            src: "img/Vector2.svg",
           },
           items: [
             {
