@@ -52,16 +52,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             {
               type: "doc",
               docId: "intro",
-              position: "left",
+              position: "right",
               label: "Tutorial",
             },
             {
               type: "doc",
               docId: "faq",
-              position: "left",
+              position: "right",
               label: "FAQ",
             },
-            { to: "/blog", label: "Blog", position: "left" },
+            { to: "/blog", label: "Blog", position: "right" },
             {
               href: "https://www.facebook.com/groups/hackcity.io",
               label: "Facebook",
