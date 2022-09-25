@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Syntrum",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/Vector1.svg"
@@ -37,19 +37,19 @@ export default {
         {
           "type": "doc",
           "docId": "intro",
-          "position": "right",
+          "position": "left",
           "label": "Tutorial"
         },
         {
           "type": "doc",
           "docId": "faq",
-          "position": "right",
+          "position": "left",
           "label": "FAQ"
         },
         {
           "to": "/blog",
           "label": "Blog",
-          "position": "right"
+          "position": "left"
         },
         {
           "href": "https://www.facebook.com/groups/hackcity.io",

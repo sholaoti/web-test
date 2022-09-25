@@ -43,7 +43,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         navbar: {
-          title: "My Site",
+          title: "Syntrum",
           logo: {
             alt: "My Site Logo",
             src: "img/Vector1.svg",
@@ -52,16 +52,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             {
               type: "doc",
               docId: "intro",
-              position: "right",
+              position: "left",
               label: "Tutorial",
             },
             {
               type: "doc",
               docId: "faq",
-              position: "right",
+              position: "left",
               label: "FAQ",
             },
-            { to: "/blog", label: "Blog", position: "right" },
+            { to: "/blog", label: "Blog", position: "left" },
             {
               href: "https://www.facebook.com/groups/hackcity.io",
               label: "Facebook",
