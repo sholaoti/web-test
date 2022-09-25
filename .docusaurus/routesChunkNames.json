@@ -129,6 +129,14 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---docs-tags-559-5e5"
   },
+  "/hello-markdown-01a": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---hello-markdownb-5-f-357"
+  },
+  "/hello-react-17d": {
+    "component": "component---site-src-pages-hello-react-jsd-80-165",
+    "config": "config---5-e-9-4f3"
+  },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"

@@ -104,6 +104,16 @@ export default [
     exact: true
   },
   {
+    path: '/hello-markdown',
+    component: ComponentCreator('/hello-markdown','01a'),
+    exact: true
+  },
+  {
+    path: '/hello-react',
+    component: ComponentCreator('/hello-react','17d'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page','be1'),
     exact: true

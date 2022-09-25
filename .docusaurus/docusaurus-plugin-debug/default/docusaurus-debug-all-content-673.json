@@ -575,6 +575,16 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/hello-markdown",
+        "source": "@site/src/pages/hello-markdown.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/hello-react",
+        "source": "@site/src/pages/hello-react.js"
+      },
+      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"

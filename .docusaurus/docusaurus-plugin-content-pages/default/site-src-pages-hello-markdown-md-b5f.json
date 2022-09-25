@@ -1,0 +1,5 @@
+{
+  "type": "mdx",
+  "permalink": "/hello-markdown",
+  "source": "@site/src/pages/hello-markdown.md"
+}
